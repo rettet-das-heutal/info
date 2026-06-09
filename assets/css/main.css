@@ -3337,3 +3337,22 @@ ul.labeled-icons {
 	color: #4a3f35 !important;
 }
 
+
+.petition-button {
+    display: inline-block;
+    background: #e74c3c;
+    color: #fff !important;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.2em;
+    padding: 1em 2.5em;
+    border-radius: 50px;
+    transition: all .3s ease;
+    box-shadow: 0 6px 18px rgba(231,76,60,.35);
+}
+
+.petition-button:hover {
+    background: #c0392b;
+    transform: scale(1.05);
+    color: #fff !important;
+}
